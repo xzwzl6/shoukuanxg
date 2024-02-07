@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=gb2312"/>
+	<title>赞助我们 &#8211; 七途影院感谢一路有你</title>
+	<meta name="keywords" content="赞助我们 七途影院感谢一路有你"/>
+	<meta name="description" content="赞助我们 七途影院感谢一路有你"/>
+	<meta name="description" content="赞助我们 七途影院感谢一路有你">
+	<!-- <link href='http://fonts.useso.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>-->
+	<link rel="stylesheet" href="css/colpick.css" type="text/css"/>
+	<link href="css/jquery.nouislider.css" rel="stylesheet">
+	<!--<link rel="stylesheet" href="css/demo.css" type="text/css"/>-->
+	<link href="css/index.css" rel="stylesheet" type="text/css">
+	<script src="js/jquery.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/daohang0001.css" />
+	<link type="text/css" href="css/main.css" rel="stylesheet">
+   <link type="text/css" href="css/0001245c2.css" rel="stylesheet">
+	<style type="text/css">
+body,select,textarea {font-size:1.1em}
+body, html,input{font-family:"Microsoft YaHei";}
+</style>
+</head>
+<div id="e_background">
+	<div id="e_smallstars"></div>
+	<div id="e_moon"></div>
+	        <br />
+<div class='ribbon'>
+<a href='https://www.dhw22.com'><span>网站首页</span></a> 
+<a href='http://www.weifenshi.com/'><span>优惠云优选</span></a> 
+<a href='https://jq.qq.com/?_wv=1027&k=d3fvOORd'><span>官方QQ群</span></a>、
+<a href='http://www.xx8g.com'><span>小高教程网</span></a>
+</div>
+</div>
+<body>
+	<div id="intro">
+	    <br />
+		<img src="images/logo1.png" width="500" height="200" align="center">
+		<br />
+        <p align="center"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://music.163.com/outchain/player?type=2&id=460578140&auto=1&height=66"></iframe></p>
+        		<div id="intro1">
+				        <br />
+<img src="images/my.png" width="-155" height="-230" style="position:absolute; right:-100px;">
+		<p align="center"><img src="images/fukuan.jpg" width="400" height="502" /></p>
+        <br />
+        <br />
+        <!--<p align="center">2017-2018 <a href="http://gt-mp.cn/">GT-MP中文站</a> · Powered by <a href="http://gt-mp.cn/" target="_blank" rel="generator">GT-MP.CN</a></p>-->
+        	</div>
+			</div>
+    <!-- -------------赞助名单列表---------------  -->
+<div class="Top_Record">
+	<div class="record_Top"><p>赞助名单列表</p></div>
+    <div class="topRec_List">
+  		<dl>
+        	<dd>用户名</dd>
+        	<dd>用户组</dd>
+        	<dd>赞助金额</dd>
+        	<dd>赞助时间</dd>
+        </dl>
+        <div style="color:#FFFFFF" class="maquee">
+            <ul>
+                <li>
+                    <div>Edge</div>
+                    <div>新手上路</div>
+                    <div>赞助11元</div>
+                    <div>2018/03/03 14:27</div>
+                </li> 
+            </ul>
+        </div>
+    </div>
+	<br />
+        <br />
+<p align="center"><a href="http://wpa.qq.com/msgrd?v=3&uin=84065994&site=qq&menu=yes"><img alt="GT-MP中文站官方QQ群" src="images/qq.png"width="32" height="32" /></a></p>
+</div>     
+	<!-- 赞助人数多了之后在开启滚动 
+	<script type="text/javascript"> 
+	  function autoScroll(obj){  
+			$(obj).find("ul").animate({  
+				marginTop : "-39px"  
+			},500,function(){  
+				$(this).css({marginTop : "0px"}).find("li:first").appendTo(this);  
+			})  
+		}  
+		$(function(){  
+			setInterval('autoScroll(".maquee")',3000);
+			setInterval('autoScroll(".apple")',2000);
+			  
+		}) 
+		
+</script> -->
+	<script type="text/javascript" src="js/jquery-1.10.1.min.js"></script>
+	<script type="text/javascript" src="js/bubbler.jquery.js"></script>
+	<!-- For demo -->
+	<script type="text/javascript" src="js/colpick.js"></script>
+	<script type="text/javascript" src="js/jquery.nouislider.js" ></script>
+	
+	<script type="text/javascript" src="js/demo.js"></script>
+</body>
+</html>
